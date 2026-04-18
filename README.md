@@ -1,4 +1,4 @@
-# Nagphormer Distillation
+# GT to MLP Distillation
 
 A knowledge distillation framework for Graph Transformers using the Nagphormer architecture. This project trains a teacher model and distills its knowledge to student models of varying complexity for efficient node classification on graph datasets.
 
