@@ -37,8 +37,8 @@ A knowledge distillation framework for Graph Transformers using the Nagphormer a
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/nagphormer-distillation.git
-cd nagphormer-distillation
+git clone https://github.com/aditi-04/GraphTransformer_MLP_distillation.git
+cd GraphTransformer_MLP_distillation
 ```
 
 2. Create a virtual environment:
